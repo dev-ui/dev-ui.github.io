@@ -8,8 +8,8 @@
 <url> <loc>https://uidev.netlify.com/posts/a-brief-history-of-typography/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://uidev.netlify.com/posts/humane-typography-in-the-digital-age/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://uidev.netlify.com/posts/perfecting-the-art-of-perfection/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://uidev.netlify.com/posts/front-dev/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://uidev.netlify.com/posts/the-birth-of-movable-type/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://uidev.netlify.com/posts/ios-scrolling-blocking/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://uidev.netlify.com/tag/design</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://uidev.netlify.com/tag/gatsby</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://uidev.netlify.com/tag/handwriting</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -24,6 +24,9 @@
 <url> <loc>https://uidev.netlify.com/tag/typefaces</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://uidev.netlify.com/tag/typography</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://uidev.netlify.com/tag/web-development</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://uidev.netlify.com/tag/ios</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://uidev.netlify.com/tag/safari</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://uidev.netlify.com/tag/touch-prevent</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://uidev.netlify.com/category/design-culture</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://uidev.netlify.com/category/design-inspiration</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://uidev.netlify.com/category/typography</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>

@@ -30,5 +30,6 @@
 <url> <loc>https://uidev.netlify.com/category/design-culture</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://uidev.netlify.com/category/design-inspiration</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://uidev.netlify.com/category/typography</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://uidev.netlify.com/category/touch</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://uidev.netlify.com/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>

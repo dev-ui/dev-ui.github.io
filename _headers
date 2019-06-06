@@ -8,93 +8,93 @@
   Cache-Control: public, max-age=31536000, immutable
 /sw.js
   Cache-Control: no-cache
-/gatsby/offline-plugin-app-shell-fallback/
-  Link: </gatsby/webpack-runtime-7354a2063446e0873842.js>; rel=preload; as=script
-  Link: </gatsby/component---node-modules-gatsby-plugin-offline-app-shell-js-67b3578e2c955c088b60.js>; rel=preload; as=script
-/gatsby/404
-  Link: </gatsby/webpack-runtime-7354a2063446e0873842.js>; rel=preload; as=script
-  Link: </gatsby/styles.0b74063e18a5f8a70671.css>; rel=preload; as=script
-/gatsby/tags
-  Link: </gatsby/webpack-runtime-7354a2063446e0873842.js>; rel=preload; as=script
-  Link: </gatsby/styles.0b74063e18a5f8a70671.css>; rel=preload; as=script
-/gatsby/categories
-  Link: </gatsby/webpack-runtime-7354a2063446e0873842.js>; rel=preload; as=script
-  Link: </gatsby/styles.0b74063e18a5f8a70671.css>; rel=preload; as=script
-/gatsby/pages/about/
-  Link: </gatsby/webpack-runtime-7354a2063446e0873842.js>; rel=preload; as=script
-  Link: </gatsby/styles.0b74063e18a5f8a70671.css>; rel=preload; as=script
-/gatsby/pages/contacts/
-  Link: </gatsby/webpack-runtime-7354a2063446e0873842.js>; rel=preload; as=script
-  Link: </gatsby/styles.0b74063e18a5f8a70671.css>; rel=preload; as=script
-/gatsby/posts/perfecting-the-art-of-perfection/
-  Link: </gatsby/webpack-runtime-7354a2063446e0873842.js>; rel=preload; as=script
-  Link: </gatsby/styles.0b74063e18a5f8a70671.css>; rel=preload; as=script
-/gatsby/posts/the-origins-of-social-stationery-lettering
-  Link: </gatsby/webpack-runtime-7354a2063446e0873842.js>; rel=preload; as=script
-  Link: </gatsby/styles.0b74063e18a5f8a70671.css>; rel=preload; as=script
-/gatsby/posts/a-brief-history-of-typography/
-  Link: </gatsby/webpack-runtime-7354a2063446e0873842.js>; rel=preload; as=script
-  Link: </gatsby/styles.0b74063e18a5f8a70671.css>; rel=preload; as=script
-/gatsby/posts/humane-typography-in-the-digital-age/
-  Link: </gatsby/webpack-runtime-7354a2063446e0873842.js>; rel=preload; as=script
-  Link: </gatsby/styles.0b74063e18a5f8a70671.css>; rel=preload; as=script
-/gatsby/posts/the-birth-of-movable-type/
-  Link: </gatsby/webpack-runtime-7354a2063446e0873842.js>; rel=preload; as=script
-  Link: </gatsby/styles.0b74063e18a5f8a70671.css>; rel=preload; as=script
-/gatsby/tag/design
-  Link: </gatsby/webpack-runtime-7354a2063446e0873842.js>; rel=preload; as=script
-  Link: </gatsby/styles.0b74063e18a5f8a70671.css>; rel=preload; as=script
-/gatsby/tag/gatsby
-  Link: </gatsby/webpack-runtime-7354a2063446e0873842.js>; rel=preload; as=script
-  Link: </gatsby/styles.0b74063e18a5f8a70671.css>; rel=preload; as=script
-/gatsby/tag/handwriting
-  Link: </gatsby/webpack-runtime-7354a2063446e0873842.js>; rel=preload; as=script
-  Link: </gatsby/styles.0b74063e18a5f8a70671.css>; rel=preload; as=script
-/gatsby/tag/helvetica
-  Link: </gatsby/webpack-runtime-7354a2063446e0873842.js>; rel=preload; as=script
-  Link: </gatsby/styles.0b74063e18a5f8a70671.css>; rel=preload; as=script
-/gatsby/tag/history
-  Link: </gatsby/webpack-runtime-7354a2063446e0873842.js>; rel=preload; as=script
-  Link: </gatsby/styles.0b74063e18a5f8a70671.css>; rel=preload; as=script
-/gatsby/tag/history-of-typography
-  Link: </gatsby/webpack-runtime-7354a2063446e0873842.js>; rel=preload; as=script
-  Link: </gatsby/styles.0b74063e18a5f8a70671.css>; rel=preload; as=script
-/gatsby/tag/learning-to-write
-  Link: </gatsby/webpack-runtime-7354a2063446e0873842.js>; rel=preload; as=script
-  Link: </gatsby/styles.0b74063e18a5f8a70671.css>; rel=preload; as=script
-/gatsby/tag/lettering
-  Link: </gatsby/webpack-runtime-7354a2063446e0873842.js>; rel=preload; as=script
-  Link: </gatsby/styles.0b74063e18a5f8a70671.css>; rel=preload; as=script
-/gatsby/tag/linotype
-  Link: </gatsby/webpack-runtime-7354a2063446e0873842.js>; rel=preload; as=script
-  Link: </gatsby/styles.0b74063e18a5f8a70671.css>; rel=preload; as=script
-/gatsby/tag/monotype
-  Link: </gatsby/webpack-runtime-7354a2063446e0873842.js>; rel=preload; as=script
-  Link: </gatsby/styles.0b74063e18a5f8a70671.css>; rel=preload; as=script
-/gatsby/tag/open-source
-  Link: </gatsby/webpack-runtime-7354a2063446e0873842.js>; rel=preload; as=script
-  Link: </gatsby/styles.0b74063e18a5f8a70671.css>; rel=preload; as=script
-/gatsby/tag/typefaces
-  Link: </gatsby/webpack-runtime-7354a2063446e0873842.js>; rel=preload; as=script
-  Link: </gatsby/styles.0b74063e18a5f8a70671.css>; rel=preload; as=script
-/gatsby/tag/typography
-  Link: </gatsby/webpack-runtime-7354a2063446e0873842.js>; rel=preload; as=script
-  Link: </gatsby/styles.0b74063e18a5f8a70671.css>; rel=preload; as=script
-/gatsby/tag/web-development
-  Link: </gatsby/webpack-runtime-7354a2063446e0873842.js>; rel=preload; as=script
-  Link: </gatsby/styles.0b74063e18a5f8a70671.css>; rel=preload; as=script
-/gatsby/category/design-culture
-  Link: </gatsby/webpack-runtime-7354a2063446e0873842.js>; rel=preload; as=script
-  Link: </gatsby/styles.0b74063e18a5f8a70671.css>; rel=preload; as=script
-/gatsby/category/design-inspiration
-  Link: </gatsby/webpack-runtime-7354a2063446e0873842.js>; rel=preload; as=script
-  Link: </gatsby/styles.0b74063e18a5f8a70671.css>; rel=preload; as=script
-/gatsby/category/typography
-  Link: </gatsby/webpack-runtime-7354a2063446e0873842.js>; rel=preload; as=script
-  Link: </gatsby/styles.0b74063e18a5f8a70671.css>; rel=preload; as=script
-/gatsby/
-  Link: </gatsby/webpack-runtime-7354a2063446e0873842.js>; rel=preload; as=script
-  Link: </gatsby/styles.0b74063e18a5f8a70671.css>; rel=preload; as=script
-/gatsby/page/1
-  Link: </gatsby/webpack-runtime-7354a2063446e0873842.js>; rel=preload; as=script
-  Link: </gatsby/styles.0b74063e18a5f8a70671.css>; rel=preload; as=script
+/offline-plugin-app-shell-fallback/
+  Link: </webpack-runtime-8517a3ca77a7ac380e3d.js>; rel=preload; as=script
+  Link: </component---node-modules-gatsby-plugin-offline-app-shell-js-67b3578e2c955c088b60.js>; rel=preload; as=script
+/404
+  Link: </webpack-runtime-8517a3ca77a7ac380e3d.js>; rel=preload; as=script
+  Link: </styles.30545937a1c3099d53e2.css>; rel=preload; as=script
+/tags
+  Link: </webpack-runtime-8517a3ca77a7ac380e3d.js>; rel=preload; as=script
+  Link: </styles.30545937a1c3099d53e2.css>; rel=preload; as=script
+/categories
+  Link: </webpack-runtime-8517a3ca77a7ac380e3d.js>; rel=preload; as=script
+  Link: </styles.30545937a1c3099d53e2.css>; rel=preload; as=script
+/pages/about/
+  Link: </webpack-runtime-8517a3ca77a7ac380e3d.js>; rel=preload; as=script
+  Link: </styles.30545937a1c3099d53e2.css>; rel=preload; as=script
+/posts/perfecting-the-art-of-perfection/
+  Link: </webpack-runtime-8517a3ca77a7ac380e3d.js>; rel=preload; as=script
+  Link: </styles.30545937a1c3099d53e2.css>; rel=preload; as=script
+/posts/the-origins-of-social-stationery-lettering
+  Link: </webpack-runtime-8517a3ca77a7ac380e3d.js>; rel=preload; as=script
+  Link: </styles.30545937a1c3099d53e2.css>; rel=preload; as=script
+/pages/contacts/
+  Link: </webpack-runtime-8517a3ca77a7ac380e3d.js>; rel=preload; as=script
+  Link: </styles.30545937a1c3099d53e2.css>; rel=preload; as=script
+/posts/a-brief-history-of-typography/
+  Link: </webpack-runtime-8517a3ca77a7ac380e3d.js>; rel=preload; as=script
+  Link: </styles.30545937a1c3099d53e2.css>; rel=preload; as=script
+/posts/humane-typography-in-the-digital-age/
+  Link: </webpack-runtime-8517a3ca77a7ac380e3d.js>; rel=preload; as=script
+  Link: </styles.30545937a1c3099d53e2.css>; rel=preload; as=script
+/posts/the-birth-of-movable-type/
+  Link: </webpack-runtime-8517a3ca77a7ac380e3d.js>; rel=preload; as=script
+  Link: </styles.30545937a1c3099d53e2.css>; rel=preload; as=script
+/tag/design
+  Link: </webpack-runtime-8517a3ca77a7ac380e3d.js>; rel=preload; as=script
+  Link: </styles.30545937a1c3099d53e2.css>; rel=preload; as=script
+/tag/gatsby
+  Link: </webpack-runtime-8517a3ca77a7ac380e3d.js>; rel=preload; as=script
+  Link: </styles.30545937a1c3099d53e2.css>; rel=preload; as=script
+/tag/handwriting
+  Link: </webpack-runtime-8517a3ca77a7ac380e3d.js>; rel=preload; as=script
+  Link: </styles.30545937a1c3099d53e2.css>; rel=preload; as=script
+/tag/helvetica
+  Link: </webpack-runtime-8517a3ca77a7ac380e3d.js>; rel=preload; as=script
+  Link: </styles.30545937a1c3099d53e2.css>; rel=preload; as=script
+/tag/history
+  Link: </webpack-runtime-8517a3ca77a7ac380e3d.js>; rel=preload; as=script
+  Link: </styles.30545937a1c3099d53e2.css>; rel=preload; as=script
+/tag/history-of-typography
+  Link: </webpack-runtime-8517a3ca77a7ac380e3d.js>; rel=preload; as=script
+  Link: </styles.30545937a1c3099d53e2.css>; rel=preload; as=script
+/tag/learning-to-write
+  Link: </webpack-runtime-8517a3ca77a7ac380e3d.js>; rel=preload; as=script
+  Link: </styles.30545937a1c3099d53e2.css>; rel=preload; as=script
+/tag/lettering
+  Link: </webpack-runtime-8517a3ca77a7ac380e3d.js>; rel=preload; as=script
+  Link: </styles.30545937a1c3099d53e2.css>; rel=preload; as=script
+/tag/linotype
+  Link: </webpack-runtime-8517a3ca77a7ac380e3d.js>; rel=preload; as=script
+  Link: </styles.30545937a1c3099d53e2.css>; rel=preload; as=script
+/tag/monotype
+  Link: </webpack-runtime-8517a3ca77a7ac380e3d.js>; rel=preload; as=script
+  Link: </styles.30545937a1c3099d53e2.css>; rel=preload; as=script
+/tag/open-source
+  Link: </webpack-runtime-8517a3ca77a7ac380e3d.js>; rel=preload; as=script
+  Link: </styles.30545937a1c3099d53e2.css>; rel=preload; as=script
+/tag/typefaces
+  Link: </webpack-runtime-8517a3ca77a7ac380e3d.js>; rel=preload; as=script
+  Link: </styles.30545937a1c3099d53e2.css>; rel=preload; as=script
+/tag/typography
+  Link: </webpack-runtime-8517a3ca77a7ac380e3d.js>; rel=preload; as=script
+  Link: </styles.30545937a1c3099d53e2.css>; rel=preload; as=script
+/tag/web-development
+  Link: </webpack-runtime-8517a3ca77a7ac380e3d.js>; rel=preload; as=script
+  Link: </styles.30545937a1c3099d53e2.css>; rel=preload; as=script
+/category/design-culture
+  Link: </webpack-runtime-8517a3ca77a7ac380e3d.js>; rel=preload; as=script
+  Link: </styles.30545937a1c3099d53e2.css>; rel=preload; as=script
+/category/design-inspiration
+  Link: </webpack-runtime-8517a3ca77a7ac380e3d.js>; rel=preload; as=script
+  Link: </styles.30545937a1c3099d53e2.css>; rel=preload; as=script
+/category/typography
+  Link: </webpack-runtime-8517a3ca77a7ac380e3d.js>; rel=preload; as=script
+  Link: </styles.30545937a1c3099d53e2.css>; rel=preload; as=script
+/
+  Link: </webpack-runtime-8517a3ca77a7ac380e3d.js>; rel=preload; as=script
+  Link: </styles.30545937a1c3099d53e2.css>; rel=preload; as=script
+/page/1
+  Link: </webpack-runtime-8517a3ca77a7ac380e3d.js>; rel=preload; as=script
+  Link: </styles.30545937a1c3099d53e2.css>; rel=preload; as=script

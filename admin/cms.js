@@ -1312,7 +1312,7 @@ window.netlifyIdentity = _netlifyIdentityWidget.default;
 
 var addLoginListener = function addLoginListener() {
   return _netlifyIdentityWidget.default.on("login", function () {
-    document.location.href = "/gatsby" + "/" + "admin" + "/";
+    document.location.href = "" + "/" + "admin" + "/";
   });
 };
 

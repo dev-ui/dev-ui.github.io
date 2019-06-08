@@ -23,9 +23,6 @@
 /pages/contacts/
   Link: </webpack-runtime-45f33ecacff27f8f5d4d.js>; rel=preload; as=script
   Link: </styles.b72c1fc016bb9135624f.css>; rel=preload; as=script
-/posts/a-brief-history-of-typography/
-  Link: </webpack-runtime-45f33ecacff27f8f5d4d.js>; rel=preload; as=script
-  Link: </styles.b72c1fc016bb9135624f.css>; rel=preload; as=script
 /posts/the-origins-of-social-stationery-lettering
   Link: </webpack-runtime-45f33ecacff27f8f5d4d.js>; rel=preload; as=script
   Link: </styles.b72c1fc016bb9135624f.css>; rel=preload; as=script
@@ -63,6 +60,9 @@
   Link: </webpack-runtime-45f33ecacff27f8f5d4d.js>; rel=preload; as=script
   Link: </styles.b72c1fc016bb9135624f.css>; rel=preload; as=script
 /pages/about/
+  Link: </webpack-runtime-45f33ecacff27f8f5d4d.js>; rel=preload; as=script
+  Link: </styles.b72c1fc016bb9135624f.css>; rel=preload; as=script
+/posts/a-brief-history-of-typography/
   Link: </webpack-runtime-45f33ecacff27f8f5d4d.js>; rel=preload; as=script
   Link: </styles.b72c1fc016bb9135624f.css>; rel=preload; as=script
 /tag/design

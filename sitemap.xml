@@ -14,11 +14,13 @@
 <url> <loc>https://uidev.netlify.com/posts/swiperjs/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://uidev.netlify.com/posts/firebase/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://uidev.netlify.com/posts/react-component-wrapping/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://uidev.netlify.com/posts/design-system/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://uidev.netlify.com/tag/pwa</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://uidev.netlify.com/tag/animation</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://uidev.netlify.com/tag/component</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://uidev.netlify.com/tag/css</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://uidev.netlify.com/tag/design</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://uidev.netlify.com/tag/design-system</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://uidev.netlify.com/tag/firebase</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://uidev.netlify.com/tag/framerjs</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://uidev.netlify.com/tag/horizon-scroll</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -42,4 +44,5 @@
 <url> <loc>https://uidev.netlify.com/category/swiperjs</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://uidev.netlify.com/category/touch</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://uidev.netlify.com/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://uidev.netlify.com/page/1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>

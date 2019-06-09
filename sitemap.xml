@@ -16,6 +16,7 @@
 <url> <loc>https://uidev.netlify.com/posts/2019-design-trends/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://uidev.netlify.com/posts/pwa-roadshow/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://uidev.netlify.com/posts/prismjs/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://uidev.netlify.com/posts/webapp/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://uidev.netlify.com/tag/pwa</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://uidev.netlify.com/tag/animation</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://uidev.netlify.com/tag/component</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -29,6 +30,7 @@
 <url> <loc>https://uidev.netlify.com/tag/ios</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://uidev.netlify.com/tag/javascript</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://uidev.netlify.com/tag/material-ui</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://uidev.netlify.com/tag/mobile</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://uidev.netlify.com/tag/motion</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://uidev.netlify.com/tag/prism</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://uidev.netlify.com/tag/react</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -37,9 +39,11 @@
 <url> <loc>https://uidev.netlify.com/tag/touch-prevent</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://uidev.netlify.com/tag/ui</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://uidev.netlify.com/tag/ui-ux</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://uidev.netlify.com/tag/webapp</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://uidev.netlify.com/category/design</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://uidev.netlify.com/category/firebase</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://uidev.netlify.com/category/framerjs</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://uidev.netlify.com/category/mobile</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://uidev.netlify.com/category/motion</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://uidev.netlify.com/category/prism</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://uidev.netlify.com/category/pwa</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>

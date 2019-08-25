@@ -21,14 +21,13 @@
 <url> <loc>https://uidev.netlify.com/posts/webapp/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://uidev.netlify.com/posts/framerjs/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://uidev.netlify.com/posts/mui-react/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://uidev.netlify.com/posts/react-component-wrapping/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://uidev.netlify.com/posts/nodejs1/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://uidev.netlify.com/posts/nodejs2/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://uidev.netlify.com/posts/animations/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://uidev.netlify.com/posts/2019-design-trends/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://uidev.netlify.com/posts/firebase/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://uidev.netlify.com/posts/prismjs/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://uidev.netlify.com/posts/motion1/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://uidev.netlify.com/posts/react-component-wrapping/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://uidev.netlify.com/tag/pwa</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://uidev.netlify.com/tag/animation</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://uidev.netlify.com/tag/component</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>

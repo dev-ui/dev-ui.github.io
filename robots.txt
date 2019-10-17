@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://uidev.netlify.com/sitemap.xml
-Host: https://uidev.netlify.com
+Sitemap: https://uidevs.netlify.com/sitemap.xml
+Host: https://uidevs.netlify.com

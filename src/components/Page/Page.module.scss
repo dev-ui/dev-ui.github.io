@@ -1,0 +1,70 @@
+@import '../../assets/scss/variables';
+@import '../../assets/scss/mixins';
+
+.page {
+  // @include margin-bottom(2);
+  background-color: $color-bg;
+  min-height:100vh;
+  &:after{
+    content: '';
+    display: block;
+    width: 100vw;
+    height: 100vh;
+    background: $color-bg;
+    position: fixed;
+    top: 0;
+    right: 0;
+    z-index: -1;
+  }
+
+  @media (min-width: 768px) {
+    padding-left: $side;
+  }
+
+  &__inner {
+    padding: 40px;
+
+    @media (max-width: 768px) {
+      padding: 20px;
+    }
+  }
+
+  &__title {
+    font-size: $typographic-base-font-size * 2.5;
+    font-weight: 600;
+    @include line-height(2);
+    @include margin-top(0);
+    @include margin-bottom(1.45);
+  }
+
+  &__body {
+    font-size: $typographic-base-font-size;
+    @include line-height(1);
+    @include margin(0, 0, 1);
+  }
+
+}
+
+// @include breakpoint-sm {
+//   .page {
+//     lost-column: 7/12;
+
+//     &__inner {
+//       padding: 30px 20px;
+//     }
+
+//   }
+
+// }
+
+// @include breakpoint-md {
+//   .page {
+//     lost-column: 2/3;
+
+//     &__inner {
+//       padding: 40px 35px;
+//     }
+
+//   }
+
+// }

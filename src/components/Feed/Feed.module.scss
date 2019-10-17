@@ -1,0 +1,125 @@
+@import '../../assets/scss/variables';
+@import '../../assets/scss/mixins';
+
+.feed {  
+  display: flex;
+  flex-wrap: wrap;
+
+  &__item {
+    @include margin-bottom(.8);
+    border-bottom: 1px solid #ddd;
+    padding: 1.5rem;
+    background-color: #fff;
+    border-radius: 3px;
+    box-shadow: 0 1px 3px 0 rgba(0,0,0,.07), 0 6px 20px 0 rgba(0,0,0,.04), 0 0 0 1px rgba(0,0,0,.02);
+
+    box-sizing: border-box;
+    width: 100%;
+
+
+    // margin-right: 1rem;
+
+    @include breakpoint-sm {
+      width: calc(50% - .7rem);
+      &:nth-child(odd){
+        margin-right: .7rem;
+      }
+      &:nth-child(even){
+        margin-left: .7rem;
+      }
+    }
+    @include breakpoint-lg {
+      width: calc(33.33% - 1rem);
+      min-height: 13rem;
+    
+      &:nth-child(odd){margin-right: 0;}
+      &:nth-child(even){margin-left: 0;}
+
+      &:nth-child(3n+1){
+        margin-right: 1rem;
+      }
+      &:nth-child(3n+2){
+        margin-left: .5rem;
+        margin-right: .5rem;
+      }
+      &:nth-child(3n+3){
+        margin-left: 1rem;
+      }
+    }
+
+
+    // &:last-child {
+    //   @include margin-bottom(.5);
+    // }
+
+    &-title {
+      font-size: $typographic-base-font-size * 1.5875;
+      @include line-height(1.5);
+      @include margin-top(0);
+      @include margin-bottom(.2);
+
+      &-link {
+        color: $color-base;
+
+        &:hover,
+        &:focus {
+          color: $color-base;
+          border-bottom: 1px solid $color-base;
+        }
+
+      }
+
+    }
+
+    &-description {
+      font-size: $typographic-base-font-size;
+      @include line-height(1);
+      @include margin-top(0);
+      @include margin-bottom(.3);
+    }
+
+    &-meta {
+      &-time {
+        font-size: $typographic-small-font-size;
+        color: $color-base;
+        font-weight: 600;
+        text-transform: uppercase;
+      }
+
+      &-divider {
+        margin: 0 5px;
+      }
+
+      &-category {
+        &-link {
+          font-size: $typographic-small-font-size;
+          color: $color-secondary;
+          font-weight: 600;
+          text-transform: uppercase;
+
+          &:hover,
+          &:focus {
+            color: $color-primary;
+          }
+
+        }
+
+      }
+
+    }
+
+    &-readmore {
+      font-size: $typographic-base-font-size;
+      color: $color-primary;
+
+      &:hover,
+      &:focus {
+        color: $color-primary;
+        border-bottom: 1px solid $color-primary;
+      }
+
+    }
+
+  }
+
+}

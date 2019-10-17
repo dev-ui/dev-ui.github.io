@@ -1,0 +1,97 @@
+/** 
+ * Variables
+ */
+
+// Colors
+$color-base: #222;
+$color-primary: #5085e8;
+$color-secondary: #99a1b1;
+$color-gray: #888;
+$color-bg: #f6f6f9;
+$color-bg-github: #f6f8fa;
+
+$color-white: #FFF;
+$color-gray: lighten($color-base, 40%);
+$color-gray-border: lighten($color-base, 77%);
+$color-gray-bg: lighten($color-base, 79%);
+
+// Typographic
+$typographic-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+
+$typographic-root-font-size: 100;
+$typographic-base-font-size: 16px;
+$typographic-small-font-size: 14px;
+
+$typographic-base-line-height: 1.625;
+
+$typographic-base-font-color: $color-base;
+$typographic-link-p-font-color: $color-primary;
+$typographic-link-s-font-color: $color-secondary;
+
+$typographic-leading: round(16 * ($typographic-root-font-size / 100) * $typographic-base-line-height);
+
+// Buttons
+$button-height: 35px;
+$button-border-radius: 20px;
+
+// Layout
+$layout-post-single-width: 1345px;
+$layout-post-width: $layout-post-single-width - 305px;
+
+$layout-width: 1470px;
+$layout-breakpoint-sm: 1085px;
+$layout-breakpoint-md: 1360px;
+$layout-breakpoint-lg: 1500px;
+
+// Layout Origin
+// $layout-post-single-width: 945px;
+// $layout-post-width: $layout-post-single-width - 305px;
+// $layout-width: 1070px;
+// $layout-breakpoint-sm: 685px;
+// $layout-breakpoint-md: 960px;
+// $layout-breakpoint-lg: 1100px;
+
+// Layout %
+// $layout-post-single-width: 100%;
+// $layout-post-width: 100%;
+// $layout-width: 100%;
+// $layout-breakpoint-sm: 685px;
+// $layout-breakpoint-md: 960px;
+// $layout-breakpoint-lg: 100%;
+
+//shadow
+$shadow-1: 0 1px 3px 0 rgba(0,0,0,0.07), 0 6px 20px 0 rgba(0,0,0,0.04), 0 0 0 1px rgba(0,0,0,0.02);
+
+//padding
+$padding-1:10px;
+$padding-2:20px;
+$padding-3:30px;
+
+//radius
+$radius: 5px;
+
+$side: 280px;
+
+
+/****************************/
+/* Mixin                    */
+/****************************/
+@mixin clear {
+    position: relative;
+    &:after{
+        content: '';
+        display: block;
+        clear: both;
+    }
+}
+
+@mixin posCenter($top:0, $right:0, $bottom:0, $left:0, $position:absolute) {
+    top: $top;
+    right: $right;
+    bottom: $bottom;
+    left: $left;
+    position: $position;
+    margin: auto;
+}
+
+
